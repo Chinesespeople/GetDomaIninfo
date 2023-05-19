@@ -21,3 +21,5 @@ optional arguments:
                         
 
 ![image](https://github.com/Chinesespeople/GetDomaIninfo/assets/42881938/16c388ee-e668-422c-b131-4d362d9e8908)
+
+分别对应的是[百度权重、域名、单位名称、单位性质、备案号、IP地址]
